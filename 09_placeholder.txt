@@ -1,0 +1,1 @@
+* This stage of the classification procedure consists of converting the waveforms produced in the simulation stage into points in parameter space, and then mapping those points into feature space. A C++ application was written to perform this task, listed in (GITHUB CITATION). --> 09_waveformParameterizer
